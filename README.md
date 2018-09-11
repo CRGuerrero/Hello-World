@@ -1,5 +1,5 @@
 # Hello-World
-My first Repositoty
+My first Repository
 
 This is a branch, I think
 
